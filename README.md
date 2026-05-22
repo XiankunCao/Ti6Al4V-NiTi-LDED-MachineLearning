@@ -93,6 +93,9 @@ Class labels:
 10. TabPFN with Post Hoc Ensembling
 
 ## Reproducibility
-The Python environment can be reproduced using either requirements.txt or environment.yml.
+The Python environment can be reproduced using `requirements.txt`.
+
 Install dependencies using pip:
+
+```bash
 pip install -r requirements.txt
